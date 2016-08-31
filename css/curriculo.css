@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+
+p  {
+    color: black;
+    font-family: courier;
+    font-size: 100%;
+}
+
+.div_caixa {
+    height: auto;
+    <!--float: left;-->
+    text-align: left;
+    border-right: 30px;
+    
+
+}
